@@ -1,0 +1,7 @@
+cloudtalk:
+  anchor: /partners/spec/petchat
+  group_admin_username: petchat.admin
+  group_admin_password: meow4bark
+  host: integration.cloudtalk.me
+  partner_group_id: 1800-GU1D5-4SALE-1800-GU1D5-4SALE
+  partner_app_group_id: 1800-GU1D5-4SALE-1800-GU1D5-4SALE
